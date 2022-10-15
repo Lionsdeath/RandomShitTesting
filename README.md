@@ -1,6 +1,7 @@
 # coaa74fc195821967088d27b3
 
 Just testing some of their stuff before creating own stuff
+their html stuff is nice to get started maybe a bit too simple though
 
 ## About Scrimba
 
